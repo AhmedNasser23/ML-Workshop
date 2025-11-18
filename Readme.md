@@ -18,12 +18,12 @@ The goal of this repository is to:
 
 ## 🧩 Topics Covered
 
-📘 **Python Fundamentals for Data Science**
-📊 **Data Analysis & Visualization** (NumPy, Pandas, Matplotlib, Seaborn)
-⚙️ **Data Preprocessing & Feature Engineering**
-🧮 **Machine Learning Algorithms** (Regression, Classification, Clustering, etc.)
-🧠 **Model Evaluation & Optimization**
-📈 **Practical Projects & Case Studies**
+* 📘 **Python Fundamentals for Data Science**
+* 📊 **Data Analysis & Visualization** (NumPy, Pandas, Matplotlib, Seaborn)
+* ⚙️ **Data Preprocessing & Feature Engineering**
+* 🧮 **Machine Learning Algorithms** (Regression, Classification, Clustering, etc.)
+* 🧠 **Model Evaluation & Optimization**
+* 📈 **Practical Projects & Case Studies**
 
 ---
 
