@@ -4,7 +4,7 @@ from numpy.linalg import norm
 from sklearn.preprocessing import MinMaxScaler
 
 def load_dataset_scaled():
-    df = pd.read_csv('Datasets/dataset_200x4_regression.csv')
+    df = pd.read_csv('../../data/dataset_200x4_regression.csv')
     df = MinMaxScaler().fit_transform(df)
     X = df[:, :-1]
     t = df[:, -1]
