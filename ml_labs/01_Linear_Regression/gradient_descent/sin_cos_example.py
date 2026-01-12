@@ -1,7 +1,7 @@
 import numpy as np
 from gradient_descent import gradient_descent
 
-if __name__ == "__main__":
+def main():
     def f(x, y, z):
         return np.sin(x) + np.cos(y) + np.sin(z)
 
@@ -27,3 +27,6 @@ if __name__ == "__main__":
         print(f'The minimum value of the function is f(min) = {f(mn[0], mn[1], mn[2])}')
 
     test()
+
+if __name__ == "__main__":
+    main()

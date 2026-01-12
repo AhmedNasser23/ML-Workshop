@@ -2,4 +2,7 @@ data
 .idea
 .vscode
 .venv
+simple_EDA.ipynb
 __pycache__
+*.csv
+theory/

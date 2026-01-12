@@ -1,0 +1,8 @@
+{
+    "dataset": "data/dataset_200x4_regression.csv",
+    "preprocessing": 1,
+    "choice": 1,
+    "alpha": 0.01,
+    "precision": 0.0001,
+    "max_iter": 1000
+}
